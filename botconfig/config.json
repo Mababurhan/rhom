@@ -1,8 +1,8 @@
 {
-   "token": "OTE1NjA3MTY3NzExNzExMzYz.YaeDnw.qGheU35lb8mOHShQDFMIGoz1bJ8",
-   "prefix": "rm.",
+   "token": "MTI2MjExNjM4MDI0OTk1MjI5Nw.GEpKyG.oJxorEF2jJfBpAprEp_lpC6fvBwbbvvnG-LvYE",
+   "prefix": "/",
    "ownerIDS": [
-      "729430027828985886"
+      "1125033700556542084"
    ],
    "status": {
       "text": "{prefix}help | https://discord.gg/hFSV7bb7Yp | discord.link/RHComn",
@@ -19,7 +19,7 @@
    },
 
    "spotify": {
-      "clientID": "babbbb213aeb424caed89e4e95cede41",
-      "clientSecret": "637558af99704e0d920bf0d225dd7f50"
+      "clientID": "1125033700556542084",
+      "clientSecret": "-E73UqaXXIKnrEyMm6Jokd6qFWP28Nt4"
    }
 }
